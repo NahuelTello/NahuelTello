@@ -1,6 +1,6 @@
 - 👋 @NahuelTello 
 - 👀 Futuro Desarrollador Full-Stack en Coderhouse
-- 🌱 Actualmente estoy aprendiendo Javascript
+- 🌱 Actualmente estoy aprendiendo Programación Backend
 - 💞️ Estoy buscando colaborar en cualquien trabajo/empresa para poder ampliar mis conocimientos asi mismo sumar experiencia como desarrollador
 - 📫 Cómo contactarme - matiasnahueltello@hotmail.com 
 
